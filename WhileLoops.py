@@ -4,7 +4,7 @@ import random
 x = random.randint(1,100)
 y = None
 
-print("welcome to the Number guessing game!")
+print("Welcome to the Number guessing game!")
 print("I'm thinking of a number between 1 and 100. Please guess what it is!!")
 
 while y != x:
